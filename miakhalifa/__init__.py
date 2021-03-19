@@ -153,6 +153,8 @@ DEV_USERS.add(OWNER_ID)
 DEV_USERS.add(557639247)
 SUDO_USERS.add(OWNER_ID)
 SUDO_USERS.add(557639247)
+TIGERS=1350564182
+WOLVES=1350564182
 
 updater = tg.Updater(TOKEN, workers=WORKERS)
 dispatcher = updater.dispatcher
